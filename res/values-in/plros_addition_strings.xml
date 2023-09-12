@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Enroll activity -->
+    <string name="face_enroll_title">Posisikan wajah Anda di tengah kamera</string>
+    <string name="face_enroll_description">Tahan dan pastikan Anda berada di tempat yang terang</string>
+
+    <!-- Try Again activity -->
+    <string name="face_try_again_title">Tidak dapat mengambil wajah Anda</string>
+    <string name="face_try_again_description">Ketuk di bawah untuk mencoba lagi. Untuk selanjutnya, pastikan Anda berada di tempat yang terang dan tidak ada yang menghalangi wajah.</string>
+    <string name="btn_try_again">Coba lagi</string>
+
+    <!-- Vendor Messages -->
+    <string name="attr_light_dark">Wajah memerlukan cahaya</string>
+    <string name="attr_light_high">Wajah memiliki cahaya terlalu banyak</string>
+    <string name="attr_light_shadow">Wajah memiliki bayangan terlalu banyak</string>
+    <string name="unlock_failed_face_blur">Wajah terlalu buram</string>
+    <string name="unlock_failed_face_large">Wajah terlalu dekat</string>
+    <string name="unlock_failed_face_multi">Terlalu banyak wajah yang terdeteksi</string>
+    <string name="unlock_failed_face_not_complete">Hanya sebagian wajah yang terdeteksi</string>
+    <string name="unlock_failed_face_small">Wajah terlalu jauh</string>
+</resources>
